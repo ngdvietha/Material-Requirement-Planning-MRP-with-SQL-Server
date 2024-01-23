@@ -8,7 +8,7 @@ Dưới đây là một bảng tính toán MRP cơ bản, dựa vào các yếu 
 
 <h1>Chu trình chạy MRP trong doanh nghiệp HTAUTO</h1>
 Dữ liệu sẽ chủ yếu lấy từ database <strong>B8_HTAuto_VN</strong> </br> 
-Link file backup: https://drive.google.com/file/d/1gumAdxOE8tw64j7VWwFQBaXx0AyWV64c/view?usp=sharing</br></br>
+Liên hệ https://www.facebook.com/ngdvietha/ nếu có bất cứ điều gì thắc mắc hoặc cần sample data để test
 Link luồng file drawio:
 https://drive.google.com/file/d/1E3Lf_MCGsjqGzNhudW3ICGRgk8twbNtZ/view?usp=sharing </br></br>
 
